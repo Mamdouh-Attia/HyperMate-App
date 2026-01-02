@@ -12,7 +12,7 @@
 [Features](#-key-features) • [Architecture](#-system-architecture) • [Tech Stack](#-tech-stack) • [Demo](#-demo)
 
 <br>
-<img src="readme_media/screenshots/App%20logo.jpeg" width="200" alt="HyperMate Logo">
+<img width="1536" height="969" alt="HyperMate Cover photo" src="https://github.com/user-attachments/assets/73ad992b-f80c-40e0-a0cf-189e9d540ac1" />
 
 
 
@@ -183,5 +183,6 @@ Copyright © 2026 HyperMate. All rights reserved.
 ---
 
 ## 📄 License
+
 
 MIT License
