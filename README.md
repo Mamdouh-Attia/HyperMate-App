@@ -1,5 +1,5 @@
 <div align="center">
-
+       
 # 💧 HyperMate
 ### *Smart Wellness Companion for Hyperhidrosis Management*
 
@@ -12,7 +12,7 @@
 [Features](#-key-features) • [Architecture](#-system-architecture) • [Tech Stack](#-tech-stack) • [Demo](#-demo)
 
 <br>
-<img width="1536" height="969" alt="HyperMate Cover photo" src="https://github.com/user-attachments/assets/73ad992b-f80c-40e0-a0cf-189e9d540ac1" />
+<img width="400" alt="HyperMate Cover photo" src="https://github.com/user-attachments/assets/73ad992b-f80c-40e0-a0cf-189e9d540ac1" />
 
 
 
@@ -186,3 +186,4 @@ Copyright © 2026 HyperMate. All rights reserved.
 
 
 MIT License
+
